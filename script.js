@@ -1,9 +1,9 @@
- let adjective = prompt('Enter an adjective:')
- let noun = prompt('Enter a noun:')
- let verb = prompt('Enter a verb:')
- let adverb = prompt('Enter a adverb:')
+let color = prompt('Enter a color:')
+let name = prompt('Enter a name:')
+ let warm = prompt('Enter a warm country:')
+ 
 
- let story=`Once upon a time, in a ${adjective} ${noun}, a ${verb} ${noun} ${adverb} ${verb}.`
+ let story=`Once upon a time, a ${color} Snowman named ${name} went for a trip to ${warm}`
 
  let madLibOutputDiv = document.getElementById('madLibOutput')
 
