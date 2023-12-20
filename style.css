@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    
     margin: 0;
     padding: 0;
     background-image:url(images/background.jpg);
@@ -11,10 +11,16 @@ body {
 
 p{
     font-family: 'Mountains of Christmas', serif;
+    font-size: 100px;
 }
 
 h1{
     font-family: 'Mountains of Christmas', serif;
+}
+
+h3{
+    font-family: 'Mountains of Christmas', serif;
+    font-size: 20px;
 }
 
 .container {
