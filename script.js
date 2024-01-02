@@ -3,7 +3,6 @@ let place = prompt('Enter a location:')
 let food = prompt('Enter a food:')
 let drink = prompt('Enter a drink:')
 let name = prompt('Enter a name:')
-let number = prompt('Enter a number:')
 let emotion = prompt('Enter a emotion:')
 let verb = prompt('Enter a verb:')
 
